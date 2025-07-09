@@ -31,9 +31,10 @@ During install:
 
 ---
 
-### 2. Install `pywin32`
+### 2. Install `pywin32` and Setup Deamon
 
 ```bash
 pip install pywin32
 
+./setup.bat
 
