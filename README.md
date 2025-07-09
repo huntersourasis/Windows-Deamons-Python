@@ -36,12 +36,4 @@ During install:
 ```bash
 pip install pywin32
 
----
 
-### 3. Setting up `Deamon`
-
-```bash
-python script.py install
-python script.py start
-python script.py stop
----
